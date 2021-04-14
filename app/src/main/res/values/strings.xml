@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Museum Tickets</string>
+    <string name="activity2_name">Museum Ticket Calculator</string>
+    <string name="toast_message">Maximum of 5 tickets each</string>
+    <string-array name="numbers">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="MOMA">The Museum of Modern Art</string>
+    <string name="MET">The Metropolitan Museum of Art</string>
+    <string name="NatHist">American Museum of Natural History</string>
+    <string name="GUGG">Soloman R. Guggenheim Museum</string>
+</resources>
